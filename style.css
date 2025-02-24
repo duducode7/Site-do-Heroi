@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(212, 3, 3);
+}
+#navbar{
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(247, 247, 55);
+    font-family: "Grechen Fuemen","serif" ;
+}
+
+img{
+    width: 800px;
+    height: 500px;
+    margin: 50px;
+}
+
+hr{
+    color: rgb(255, 174, 0)
+}
+
+div { class noticia
+
+    text-align: center;
+    color: rgb(247, 247, 55);
+    font-family: "Grechen Fuemen","serif" ;
+
+}
+
+.noticia1 {
+    display: flex;
+}
+
+h3{
+    text-align: center;
+    font-size: x-large;
+    font-family: "Grechen Fuemen","serif" ;
+    color: rgb(247, 247, 55);
+}
+
+/* #noticias{
+    display: flex;
+    
+} */
+
+p{
+    text-align: center;
+    font-family: "Grechen Fuemen","serif" ;
+    font-size: large;
+    color: rgb(247, 247, 55);
+}
+
+.poderes {
+    display:flex;
+}
+
+.aliados {
+    text-align: center;
+    background-color: rgba(238, 39, 39, 0.801);
+    
+
+}
+
+h2{
+    text-align: center;
+    font-size: x-large;
+    font-family: "Grechen Fuemen","serif" ;
+    color: rgb(247, 247, 55);
+}
+
+.viloes{
+    text-align: center;
+    background-color: rgba(238, 39, 39, 0.801);
+
+}
