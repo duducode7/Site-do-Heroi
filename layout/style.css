@@ -2,16 +2,26 @@ body {
     background-color: rgb(37, 167, 197);
 }
 
-.azul{
-    max-width:700px;
+.centralizar{
+    max-width:660px;
     margin: 0 auto;
     padding: 100px;
 }
 
-.amarela{
+.cinza{
     background-color: #f0f0f0;
     padding: 100px;
     margin: 10px;
+    box-sizing: border-box;
+}
+
+.esticar{
+    padding-right: 320px;
+
+}
+
+.alongar {
+    padding-top: 300px;
 }
 
 .flex{
